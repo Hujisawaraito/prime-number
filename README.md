@@ -1,5 +1,5 @@
 # Prime number
-[python 素数」
+「python 素数」
 
 
 「python 因数分解」
