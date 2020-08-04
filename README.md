@@ -1,4 +1,4 @@
-# primenomber
+# Prime number
 [python 素数」
 
 
